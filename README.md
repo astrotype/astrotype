@@ -1,3 +1,3 @@
 ![](./cover.png)
 
-### Hi! Let's discover the amazing world of web development together.
+### Hi! Let's discover the wonderful world of web development together.
