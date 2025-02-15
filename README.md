@@ -1,3 +1,3 @@
-## Hi my friend! This is my Github page.
+## Hi! Let's discover the amazing world of development together
 
 ![](./cover_astrotype.png)
